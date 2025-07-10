@@ -74,7 +74,7 @@
 		  free(arreglo);
   		}
   		else{
-  			printf("Error, tamaño de arreglo invalido\n");
+  			printf("Error, tamaÃ±o de arreglo invalido\n");
   		}
   		return 0;
 	}
